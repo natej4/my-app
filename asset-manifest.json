@@ -1,11 +1,10 @@
 {
-  "main.js": "/random-quote-generator/static/js/main.231488af.chunk.js",
-  "main.js.map": "/random-quote-generator/static/js/main.231488af.chunk.js.map",
-  "runtime~main.js": "/random-quote-generator/static/js/runtime~main.df6529ef.js",
-  "runtime~main.js.map": "/random-quote-generator/static/js/runtime~main.df6529ef.js.map",
-  "static/js/2.6515dac8.chunk.js": "/random-quote-generator/static/js/2.6515dac8.chunk.js",
-  "static/js/2.6515dac8.chunk.js.map": "/random-quote-generator/static/js/2.6515dac8.chunk.js.map",
-  "index.html": "/random-quote-generator/index.html",
-  "precache-manifest.bbe218edc48526e368d8ea1d06758b2d.js": "/random-quote-generator/precache-manifest.bbe218edc48526e368d8ea1d06758b2d.js",
-  "service-worker.js": "/random-quote-generator/service-worker.js"
+  "files": {
+    "main.js": "/random-quote-generator/static/js/main.5c333249.js",
+    "index.html": "/random-quote-generator/index.html",
+    "main.5c333249.js.map": "/random-quote-generator/static/js/main.5c333249.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c333249.js"
+  ]
 }
