@@ -26,7 +26,7 @@ class QuoteBox extends React.Component{
                 <p id="author">-{quoteDict[this.state.index][1]}</p>
                 {/* <p>{this.state.index}</p> */}
                 <button id="new-quote" onClick={this.handleClick}>New Quote</button>
-                <a href="twitter.com/intent/tweet" target="_blank" id="tweet-quote">Tweet Quote</a>
+                <a href="https://twitter.com/intent/tweet" target="_blank" id="tweet-quote">Tweet Quote</a>
              </div>
         );
     }
